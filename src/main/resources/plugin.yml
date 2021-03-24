@@ -1,0 +1,7 @@
+name: SpawnerLimiter
+version: ${project.version}
+main: com.rabbitcompany.spawnerlimiter.SpawnerLimiter
+api-version: 1.16
+authors: [ Black1_TV ]
+description: Limit how many spawners can be placed in the same chunk.
+website: rabbit-company.com

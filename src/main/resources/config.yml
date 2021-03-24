@@ -1,0 +1,10 @@
+#       --------- + SpawnerLimiter by Ziga Zajc + ---------   #
+#                                                             #
+#                         SpawnerLimiter                      #
+#                                                             #
+#       --------- + --------------------------- + ---------   #
+#
+# How much spawners do you want to be allowed per chunk?
+spawners_limit: 5
+# What message should be shown to a players if they want to place to much spawners?
+too_many_spawners: "&cThis chunk has exceeded your maximum limit of {limit} spawners."
